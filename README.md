@@ -1,5 +1,5 @@
 # LUFFY
-robo que usa o arduino para se locomover
+Robô que usa o arduino para se locomover
 ## Autor
 Guilherme Ferreira Matos
 ## Simulador de Projeto
